@@ -1,5 +1,5 @@
 # Java-fundamentals-daily-practice
-Daily Java&DSA practice - building basic DSA fundamentals step by step.
+Daily Java&DSA practice - building DSA fundamentals step by step.
 
 This repository contains my daily Java practice.
 
