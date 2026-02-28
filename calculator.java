@@ -9,7 +9,7 @@ public class calculator{
             System.out.println("3. Multiplication (*)");
             System.out.println("4. Division (/)");
             System.out.println("5. Exit");
-            System.out.print("Enter your operator: ");
+            System.out.print("Enter your operation: ");
             char operator = sc.next().charAt(0); 
 
        double result;
@@ -33,7 +33,6 @@ public class calculator{
              result = a * b;
         System.out.println("Result = " + result);
             break;
-
         case '4':
              result = a / b;
              if (b == 0)
